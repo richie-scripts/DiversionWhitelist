@@ -2,6 +2,7 @@
 # Needed a whitelist that I could edit myself.
 
 # My edits:
+
 c.amazon-adsystem.com         # For Amazon shopping app to work
 mads.amazon-adsystem.com      # For Amazon shopping app to work
 ad.doubleclick.net            # For Amazon shopping app to work
@@ -15,6 +16,7 @@ clickserve.dartsearch.net     # Hinge dating app not displaying pictures
 sdk.split.io                  # Hinge dating app not displaying pictures
 auth.split.io                 # Hinge dating app not displaying pictures
 launches.appsflyer.com        # Hinge dating app not displaying pictures
+
 
 
 # Diversion whitelist entries
